@@ -46,7 +46,7 @@ return "Hello World from an arrow function"
 }
 ```
 
-### [Why are there so many ways declare a function!](#why-are-there-so-many-ways-declare-a-function)
+[Why are there so many ways declare a function!](#why-are-there-so-many-ways-to-declare-a-function)
 
 ## Invoking a Function
 
@@ -194,7 +194,7 @@ const sayHello = (name) => 'Hello ' + name;
 
 ## FAQ
 
-### Why are there so many ways to declare a function!
+### Why are there so many ways to declare a function
 
 Learning about all the ways to call(invoke) a function can be overwhelming, but you dont really need to remember all the possible ways to make / call functions, as long as you find a method that you like. The reason there are so many different options is because:
 
